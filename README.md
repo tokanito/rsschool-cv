@@ -1,1 +1,2 @@
-https://tokanito.io/rsschool-cv/cv
+
+https://tokanito.github.io/rsschool-cv/
