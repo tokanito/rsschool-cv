@@ -36,4 +36,6 @@ Foreman of building and assembly works
 - Native Russian;
 - Fluent English;
 - Working knowledge of German (Basic knowledge);
+- Driving License (Category A,B,C);
+- Hobbies: foreign languages, home brewery, sport.
 
