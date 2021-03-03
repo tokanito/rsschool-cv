@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tokanito.io/rsschool-cv/cv
