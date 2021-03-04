@@ -11,10 +11,21 @@ text-align: center;
 
 align-content:center;
 }
+figure{
+background-color:white;
+margin-bottom:20px;
+text-align: center; 
+
+align-content:center;
+}
 .photo {width:20%;
 height: 20%;
 
 }
+mark {
+    background-color: #DAA520;
+    color: black;
+} 
 .contacts {
 display:inline-block;
 }
